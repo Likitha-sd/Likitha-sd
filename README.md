@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE | AI/ML • Data Science • Quantitative Research<br><br>Building intelligent systems with Python, Machine Learning, Statistics, and Data Science. Interested in AI research, financial modeling, digital twins, and data-driven decision making.
+B.Tech CSE | AI/ML • Data Science • Researcher<br><br>Building intelligent systems with Python, Machine Learning, Statistics, and Data Science. Interested in AI research, financial modeling, digital twins, and data-driven decision making.
 
 
 ## 🌐 Socials:
